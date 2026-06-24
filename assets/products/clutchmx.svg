@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" fill="none">
+  <rect width="640" height="280" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="638" height="278" rx="15" stroke="#30363d"/>
+  <text x="32" y="48" fill="#58a6ff" font-family="system-ui,sans-serif" font-size="28" font-weight="700">CLUTCHMX</text>
+  <text x="32" y="76" fill="#8b949e" font-family="system-ui,sans-serif" font-size="13">Sports-Tech SaaS · Leagues · OCR · Live Standings</text>
+  <rect x="32" y="100" width="280" height="140" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="48" y="120" width="120" height="8" rx="2" fill="#30363d"/>
+  <rect x="48" y="140" width="200" height="60" rx="6" fill="#21262d"/>
+  <text x="64" y="176" fill="#7ee787" font-family="monospace" font-size="14">LIVE · 2-1</text>
+  <rect x="340" y="100" width="268" height="64" rx="8" fill="#161b22" stroke="#58a6ff55"/>
+  <text x="360" y="138" fill="#58a6ff" font-family="monospace" font-size="12">OCR Pipeline Active</text>
+  <rect x="340" y="176" width="128" height="64" rx="8" fill="#161b22" stroke="#30363d"/>
+  <rect x="480" y="176" width="128" height="64" rx="8" fill="#161b22" stroke="#30363d"/>
+</svg>

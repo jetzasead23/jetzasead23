@@ -1,43 +1,42 @@
-<!-- Copy this file to github.com/jetzasead23/jetzasead23 as README.md -->
+<!-- GitHub Profile · jetzasead23 · Premium Landing -->
 
-<br/>
+<div align="center">
+
+<img src="./assets/hero-banner.svg" width="100%" alt="Engineering dashboard — Cloud, AI, APIs, Microservices"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="200" align="center" valign="top">
+  <img src="./assets/profile-placeholder.svg" width="180" alt="Victor Jetzael Velez Argueta"/>
+</td>
+<td align="left" valign="middle">
 
 # Victor Jetzael Velez Argueta
 
-**Senior Full Stack Software Engineer** · **14+ Years**
+### Senior Full Stack Software Engineer
 
-`.NET` · `Azure` · `AI` · `Product Engineering`
-
-<br/>
-
-*I build AI-powered products, cloud platforms and production-ready software.*
+**14+ Years** · `.NET` · `Azure` · `AI` · `Product Engineering`
 
 <br/>
 
-<p>
-  <a href="https://jetzael.com"><img src="https://img.shields.io/badge/Portfolio-jetzael.com-0d1117?style=flat-square&labelColor=161b22&color=21262d" alt="Portfolio" /></a>
-  <a href="https://github.com/jetzasead23"><img src="https://img.shields.io/badge/GitHub-jetzasead23-0d1117?style=flat-square&labelColor=161b22&color=21262d&logo=github&logoColor=9ca3af" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/victor-velez23"><img src="https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=flat-square&labelColor=161b22&color=21262d&logo=linkedin&logoColor=9ca3af" alt="LinkedIn" /></a>
-  <a href="mailto:tenchu13@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&labelColor=161b22&color=21262d&logo=mail&logoColor=9ca3af" alt="Email" /></a>
-  <a href="https://jetzael.com/resume-neon-light.pdf"><img src="https://img.shields.io/badge/Resume-Download-0d1117?style=flat-square&labelColor=161b22&color=21262d&logo=adobeacrobatreader&logoColor=9ca3af" alt="Resume" /></a>
-  <a href="https://clutch-mx.org/"><img src="https://img.shields.io/badge/CLUTCHMX-Live-0d1117?style=flat-square&labelColor=161b22&color=21262d" alt="CLUTCHMX" /></a>
-  <a href="https://jetzael.com/engineering-os/"><img src="https://img.shields.io/badge/Career_OS-Private-0d1117?style=flat-square&labelColor=161b22&color=21262d" alt="Career OS" /></a>
-</p>
+<sub><i>Building AI-powered products, scalable cloud platforms and modern software.</i></sub>
 
+<br/><br/>
+
+<a href="https://jetzael.com"><img src="https://img.shields.io/badge/🌐_Portfolio-jetzael.com-0d1117?style=for-the-badge&labelColor=161b22&color=21262d" alt="Portfolio"/></a>
+<a href="https://jetzael.com/resume-neon-light.pdf"><img src="https://img.shields.io/badge/📄_Resume-Download-0d1117?style=for-the-badge&labelColor=161b22&color=21262d" alt="Resume"/></a>
+<a href="https://www.linkedin.com/in/victor-velez23"><img src="https://img.shields.io/badge/💼_LinkedIn-Profile-0d1117?style=for-the-badge&labelColor=161b22&color=21262d&logo=linkedin&logoColor=9ca3af" alt="LinkedIn"/></a>
 <br/>
+<a href="https://clutch-mx.org/"><img src="https://img.shields.io/badge/🏀_CLUTCHMX-Live-0d1117?style=for-the-badge&labelColor=161b22&color=1a2e1a" alt="CLUTCHMX"/></a>
+<a href="https://jetzael.com/engineering-os/"><img src="https://img.shields.io/badge/🧠_Career_OS-Private-0d1117?style=for-the-badge&labelColor=161b22&color=1f1a2e" alt="Career OS"/></a>
 
----
+</td>
+</tr>
+</table>
 
-<br/>
-
-## About Me
-
-- **14+ years** shipping production platforms — healthcare, e-commerce, government and sports-tech — not tutorial demos.
-- **Full-stack engineer** across backend, APIs, data layers, React/Next.js frontends and .NET MAUI mobile.
-- **Architecture-first delivery** — microservices, API design, clean boundaries and systems built to scale.
-- **Cloud-native on Azure & GCP** — CI/CD, enterprise integrations and production reliability at Humana scale.
-- **AI-assisted product engineering** — OCR pipelines, automation, copilots and faster iteration with senior oversight.
-- **Founder & lead engineer** of live SaaS products built from zero: **CLUTCHMX**, **Career OS** and **jetzael.com**.
+</div>
 
 <br/>
 
@@ -45,127 +44,209 @@
 
 <br/>
 
-## Featured Projects
+<div align="center">
+
+### Impact at a glance
+
+<sub>Measurable outcomes across enterprise and independent products</sub>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="12.5%">
+  <img src="./assets/icons/years.svg" width="40"/><br/>
+  <b>14+</b><br/>
+  <sub>Years</sub>
+</td>
+<td align="center" width="12.5%">
+  <img src="./assets/icons/patients.svg" width="40"/><br/>
+  <b>20K+</b><br/>
+  <sub>Patients</sub>
+</td>
+<td align="center" width="12.5%">
+  <img src="./assets/icons/ops.svg" width="40"/><br/>
+  <b>30%</b><br/>
+  <sub>Faster Ops</sub>
+</td>
+<td align="center" width="12.5%">
+  <img src="./assets/icons/sports.svg" width="40"/><br/>
+  <b>Founder</b><br/>
+  <sub>Sports-Tech</sub>
+</td>
+<td align="center" width="12.5%">
+  <img src="./assets/icons/healthcare.svg" width="40"/><br/>
+  <b>Healthcare</b><br/>
+  <sub>Enterprise</sub>
+</td>
+<td align="center" width="12.5%">
+  <img src="./assets/icons/cloud.svg" width="40"/><br/>
+  <b>Cloud</b><br/>
+  <sub>Azure · GCP</sub>
+</td>
+<td align="center" width="12.5%">
+  <img src="./assets/icons/ai.svg" width="40"/><br/>
+  <b>AI</b><br/>
+  <sub>Workflows</sub>
+</td>
+<td align="center" width="12.5%">
+  <img src="./assets/icons/product.svg" width="40"/><br/>
+  <b>Builder</b><br/>
+  <sub>SaaS Products</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-### 01 · CLUTCHMX
+---
 
-`LIVE` · Sports-Tech SaaS
+<br/>
 
-Amateur leagues run on paper score sheets, WhatsApp and Excel. CLUTCHMX digitizes league operations end-to-end — OCR game-sheet capture, human-in-the-loop validation, real-time standings, scheduling and multi-role dashboards.
+## Featured Products
 
-| | |
-|:---|:---|
-| **Problem** | Delayed results, stat errors and zero operational visibility for organizers and teams |
-| **Stack** | .NET · C# · Azure · SQL Server · Blazor · MAUI · OCR · REST APIs · CI/CD |
-| **Impact** | Live pilot with real leagues — faster result capture and a foundation to scale seasons and regions |
+<sub>Production platforms — not demos</sub>
+
+<br/>
+
+<table>
+<tr>
+<td width="100%">
+
+<img src="./assets/products/clutchmx.svg" width="100%" alt="CLUTCHMX"/>
+
+<br/>
+
+**CLUTCHMX** &nbsp; `LIVE` &nbsp; ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-58a6ff?style=flat-square)
+
+Sports-tech SaaS for amateur leagues — OCR game-sheet capture, real-time standings, scheduling and multi-role dashboards on Azure.
+
+| Problem | Paper score sheets, WhatsApp and Excel don't scale |
+|:--|:--|
+| **Impact** | Live pilot with real leagues — faster results, unified visibility |
 | **Link** | [clutch-mx.org](https://clutch-mx.org/) · [Case study](https://jetzael.com/en/clutchmx/) |
 
-<br/>
+<a href="https://clutch-mx.org/"><img src="https://img.shields.io/badge/View_Product-CLUTCHMX-58a6ff?style=for-the-badge&labelColor=161b22" alt="View CLUTCHMX"/></a>
 
-### 02 · Career OS
-
-`PRIVATE` · Engineering Operating System
-
-A personal engineering OS built on top of jetzael.com — technical knowledge base, interview simulator, architecture graph, decision log, career intelligence and AI coach. Living documentation for how I design, ship and grow as a senior engineer.
-
-| | |
-|:---|:---|
-| **Problem** | Scattered notes, interview prep and project context across tools with no single source of truth |
-| **Stack** | Next.js · React · TypeScript · Tailwind · Client-side auth · Structured JSON knowledge base |
-| **Impact** | Unified second brain for architecture decisions, behavioral prep and product documentation |
-| **Link** | [jetzael.com/engineering-os](https://jetzael.com/engineering-os/) |
+</td>
+</tr>
+</table>
 
 <br/>
 
-### 03 · jetzael.com
+<table>
+<tr>
+<td width="49%" valign="top">
 
-`LIVE` · Portfolio & Product Platform
-
-Static resumes don't prove you can ship modern products. jetzael.com is a bilingual portfolio built as a real product — editorial design, case studies, technical blog, SEO, analytics and production deploy on Azure Static Web Apps.
-
-| | |
-|:---|:---|
-| **Problem** | No credible way to demonstrate React/Next.js craft, engineering thinking and live product delivery |
-| **Stack** | Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · Framer Motion · Azure SWA |
-| **Impact** | Unified professional presence and the foundation for Career OS and technical content |
-| **Link** | [jetzael.com](https://jetzael.com) |
+<img src="./assets/products/career-os.svg" width="100%" alt="Career OS"/>
 
 <br/>
 
-### 04 · OCR Platform
+**Career OS** &nbsp; `PRIVATE` &nbsp; ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-`LIVE` · Document Intelligence
+Personal engineering OS — knowledge base, interview simulator, architecture graph, AI coach and career intelligence.
 
-Reusable OCR service extracted from CLUTCHMX production experience — preprocessing, extraction, validation queues and human review before data reaches business logic.
+<a href="https://jetzael.com/engineering-os/"><img src="https://img.shields.io/badge/Open-Career_OS-a371f7?style=for-the-badge&labelColor=161b22" alt="Career OS"/></a>
 
-| | |
-|:---|:---|
-| **Problem** | Physical documents with no automated digitization and no separation between OCR and domain rules |
-| **Stack** | .NET · Azure · OCR · REST APIs · SQL Server · Queue-based processing |
-| **Impact** | Reusable foundation for CLUTCHMX game sheets and other document-heavy domains |
-| **Link** | [CLUTCHMX OCR case study](https://jetzael.com/en/clutchmx/) |
+</td>
+<td width="2%"></td>
+<td width="49%" valign="top">
 
-<br/>
-
-### 05 · AI Prediction Platform
-
-`IN DEVELOPMENT` · ML-Assisted Decisions
-
-Prediction platform with data pipelines, model training and a .NET API gateway for consistent scoring — reducing human bias in repetitive operational decisions.
-
-| | |
-|:---|:---|
-| **Problem** | Decisions made without historical data or automated scoring |
-| **Stack** | Python · .NET · Azure AI · OpenAI · REST APIs |
-| **Impact** | Consistent scoring layer with inference exposed through production APIs |
-| **Link** | Portfolio · [jetzael.com](https://jetzael.com) |
+<img src="./assets/products/jetzael.svg" width="100%" alt="jetzael.com"/>
 
 <br/>
 
-### 06 · Flower Shop Platform
+**jetzael.com** &nbsp; `LIVE` &nbsp; ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Azure](https://img.shields.io/badge/SWA-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-`IN DEVELOPMENT` · E-Commerce Operations
+Bilingual portfolio as a real product — editorial design, case studies, SEO and Azure Static Web Apps.
 
-E-commerce platform for a flower shop — catalog, cart, checkout and admin dashboards replacing manual inventory and order management.
+<a href="https://jetzael.com"><img src="https://img.shields.io/badge/Visit-jetzael.com-58a6ff?style=for-the-badge&labelColor=161b22" alt="jetzael.com"/></a>
 
-| | |
-|:---|:---|
-| **Problem** | Manual inventory and orders without a digital sales channel |
-| **Stack** | .NET · React · SQL Server · REST APIs |
-| **Impact** | Digitized sales flow and fewer order errors |
-| **Link** | Portfolio · [jetzael.com](https://jetzael.com) |
+</td>
+</tr>
+</table>
 
 <br/>
 
-### 07 · Tattoo Studio Platform
+<table>
+<tr>
+<td width="49%" valign="top">
 
-`IN DEVELOPMENT` · Booking & Studio Ops
-
-Online booking, artist calendars, client history and light CRM — replacing paper schedules and WhatsApp-only coordination.
-
-| | |
-|:---|:---|
-| **Problem** | Paper and WhatsApp scheduling with no reminders, history or studio visibility |
-| **Stack** | .NET · React · SQL Server · REST APIs · Notifications |
-| **Impact** | Fewer no-shows and better studio organization |
-| **Link** | Portfolio · [jetzael.com](https://jetzael.com) |
+<img src="./assets/products/ocr.svg" width="100%" alt="OCR Platform"/>
 
 <br/>
 
-### 08 · Healthcare Platform
+**OCR Platform** &nbsp; `LIVE` &nbsp; ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-`CASE STUDY` · Clinic Operations
+Reusable document intelligence — preprocessing, extraction, validation queues and human review.
 
-Healthcare platforms spanning appointments, patient records and clinic operations — informed by Reina Madre (20k+ patients) and Humana enterprise delivery.
+<a href="https://jetzael.com/en/clutchmx/"><img src="https://img.shields.io/badge/Details-OCR_Case-58a6ff?style=for-the-badge&labelColor=161b22" alt="OCR"/></a>
 
-| | |
-|:---|:---|
-| **Problem** | Fragmented systems, slow processes and scattered patient data across clinic networks |
-| **Stack** | .NET · Microservices · SQL Server · MongoDB · Azure · REST/SOAP |
-| **Impact** | 60% operational improvement at Reina Madre · enterprise integrations at Humana scale |
-| **Link** | Portfolio · [jetzael.com](https://jetzael.com) |
+</td>
+<td width="2%"></td>
+<td width="49%" valign="top">
+
+<img src="./assets/products/ai-prediction.svg" width="100%" alt="AI Prediction"/>
+
+<br/>
+
+**AI Prediction** &nbsp; `IN DEV` &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+ML-assisted forecasting — data pipelines, model training and .NET inference gateway.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="32%" valign="top">
+
+<img src="./assets/products/flower-shop.svg" width="100%" alt="Flower Shop"/>
+
+<br/>
+
+**Flower Shop** &nbsp; `IN DEV`
+
+E-commerce — catalog, orders and admin dashboards.
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+<td width="2%"></td>
+<td width="32%" valign="top">
+
+<img src="./assets/products/tattoo-studio.svg" width="100%" alt="Tattoo Studio"/>
+
+<br/>
+
+**Tattoo Studio** &nbsp; `IN DEV`
+
+Online booking, artist calendars and light CRM.
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+<td width="2%"></td>
+<td width="32%" valign="top">
+
+<img src="./assets/products/healthcare.svg" width="100%" alt="Healthcare"/>
+
+<br/>
+
+**Healthcare** &nbsp; `CASE STUDY`
+
+Clinic ops — 20k+ patients, microservices, Humana-scale experience.
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -173,44 +254,167 @@ Healthcare platforms spanning appointments, patient records and clinic operation
 
 <br/>
 
-## Engineering Stack
+## Technology Map
 
-Grouped by discipline. Depth proven in production — not a badge collection.
+<sub>Grouped by discipline — depth over decoration</sub>
 
 <br/>
 
-**Backend**
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/REST-555?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Microservices-555?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/SOAP-555?style=flat-square" height="20"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Backend** `512BD4`
+
+<br/>
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-21262d?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-21262d?style=flat-square)
+![SOAP](https://img.shields.io/badge/SOAP-21262d?style=flat-square)
 
 <br/><br/>
 
-**Frontend**
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="20"/>
+**Frontend** `61DAFB`
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 <br/><br/>
 
-**Cloud**
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Azure_SWA-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/App_Service-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Blob_Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" height="20"/>
+**Cloud** `0078D4`
+
+<br/>
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![SWA](https://img.shields.io/badge/Static_Web_Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![App Service](https://img.shields.io/badge/App_Service-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Blob](https://img.shields.io/badge/Blob_Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**AI** `a371f7`
+
+<br/>
+
+![Cursor](https://img.shields.io/badge/Cursor-21262d?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-21262d?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR_Pipelines-58a6ff?style=flat-square)
 
 <br/><br/>
 
-**Databases**
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20"/>
+**Database** `CC2927`
+
+<br/>
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 <br/><br/>
 
-**AI**
-<img src="https://img.shields.io/badge/Cursor-000?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Ollama-000?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/OCR_Pipelines-555?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="20"/>
+**DevOps** `2088FF` · **Architecture** `64748b`
 
-<br/><br/>
+<br/>
 
-**DevOps**
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/CI%2FCD-555?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Automation-555?style=flat-square" height="20"/>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-21262d?style=flat-square)
+![Clean Arch](https://img.shields.io/badge/Clean_Architecture-64748b?style=flat-square)
+![API Design](https://img.shields.io/badge/API_Design-64748b?style=flat-square)
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-**Architecture**
-<img src="https://img.shields.io/badge/Clean_Architecture-555?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Microservices-555?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/API_Design-555?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Event--driven-555?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/System_Integration-555?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Performance-555?style=flat-square" height="20"/>
+<br/>
+
+---
+
+<br/>
+
+## Engineering Journey
+
+<sub>14+ years — from government systems to independent SaaS</sub>
+
+<br/>
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+<img src="./assets/journey.svg" width="100%" alt="Engineering journey timeline"/>
+
+</td>
+<td width="55%" valign="top">
+
+| | Milestone | Impact |
+|:--|:--|:--|
+| 🏛 | **Government · México** | Led internal process automation — Oracle web systems |
+| 🥤 | **Coca-Cola FEMSA** | National operations APIs — **30% fewer** errors |
+| 🛍 | **Arabela** | E-commerce modernization — **+30%** online sales |
+| 🏥 | **Reina Madre** | Microservices for **20k+** patients — **60%** faster ops |
+| ☁ | **TCS · Humana** | Enterprise healthcare — Azure, GCP, CI/CD, US delivery |
+| 🏀 | **CLUTCHMX** | Sports-tech founder — live SaaS with OCR pipeline |
+| 🧠 | **Career OS** | Engineering OS — AI, interviews, architecture knowledge |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## AI-Assisted Engineering
+
+<sub>AI as a multiplier — always with senior review before production</sub>
+
+<br/>
+
+| Tool | How I use it |
+|:--|:--|
+| **Cursor** | Primary IDE — feature delivery, refactoring, multi-file architecture across .NET and React |
+| **Claude Code** | Deep reasoning — system design, complex refactors and architectural trade-off analysis |
+| **GitHub Copilot** | Inline completion — boilerplate, tests and API scaffolding with fast iteration |
+| **ChatGPT** | Exploration — spike solutions, regex, SQL queries and rapid problem decomposition |
+| **Gemini** | Second opinion — alternative approaches, documentation drafts and cloud integration ideas |
+| **Ollama** | Local LLMs — private RAG experiments and offline inference for Career OS |
+| **Antigravity** | Agent workflows — autonomous task execution for repetitive engineering cycles |
+| **Graphify** | Knowledge graphs — visualizing architecture, dependencies and system relationships |
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="16.6%"><sub>**Architecture**<br/>Design & contracts</sub></td>
+<td align="center" width="16.6%"><sub>**Refactoring**<br/>Safe large changes</sub></td>
+<td align="center" width="16.6%"><sub>**Testing**<br/>Edge cases & QA</sub></td>
+<td align="center" width="16.6%"><sub>**Docs**<br/>READMEs & runbooks</sub></td>
+<td align="center" width="16.6%"><sub>**Automation**<br/>CI/CD & scripts</sub></td>
+<td align="center" width="16.6%"><sub>**Prototyping**<br/>Validate fast</sub></td>
+</tr>
+</table>
 
 <br/>
 
@@ -220,50 +424,42 @@ Grouped by discipline. Depth proven in production — not a badge collection.
 
 ## Current Focus
 
-What I'm actively building and shipping right now.
+<sub>What I'm building right now</sub>
 
 <br/>
 
-`CLUTCHMX` · `Career OS` · `OCR` · `AI Automation` · `Azure` · `React` · `Product Engineering`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+```
+┌─────────────────────────────────────┐
+│  STATUS DASHBOARD                   │
+├─────────────────────────────────────┤
+│  ● CLUTCHMX          ACTIVE         │
+│  ● Career OS         ACTIVE         │
+│  ● OCR Platform      ACTIVE         │
+│  ● AI Agents         BUILDING       │
+│  ● Cloud Architecture DEEPENING     │
+│  ● System Design     STUDYING       │
+└─────────────────────────────────────┘
+```
 
----
+</td>
+<td width="50%" valign="top">
 
-<br/>
+| Focus | Status |
+|:--|:--|
+| **CLUTCHMX** | Live pilot · OCR · standings · mobile |
+| **Career OS** | Knowledge graph · AI coach · interview sim |
+| **OCR** | Reusable pipeline · validation queues |
+| **AI Agents** | Automation workflows · local LLM RAG |
+| **Cloud Architecture** | Azure patterns · scalability · CI/CD |
+| **System Design** | Staff-level trade-offs · documentation |
 
-## Engineering Philosophy
-
-<br/>
-
-> *I enjoy solving business problems through scalable software, clean architecture and AI-assisted development.*
->
-> Production systems over prototypes. Clear boundaries over clever shortcuts. Human review where accuracy matters. Software that earns trust in the real world.
-
-<br/>
-
----
-
-<br/>
-
-## AI-Assisted Development
-
-AI is part of my daily engineering workflow — always with senior review before anything reaches production.
-
-<br/>
-
-**Tools:** Cursor · Claude Code · GitHub Copilot · ChatGPT · Gemini · Ollama · Antigravity · Graphify
-
-<br/>
-
-| Area | How I use it |
-|:---|:---|
-| **Architecture** | Design options, API contracts, cloud integration trade-offs — CLUTCHMX, Humana, jetzael.com |
-| **Refactoring** | Safer large-scale changes, dependency cleanup and consistency across .NET and React codebases |
-| **Testing** | Unit/integration scaffolding, edge-case discovery and pre-PR quality checks |
-| **Documentation** | READMEs, API descriptions, deployment runbooks and decision records |
-| **Automation** | CI/CD scripts, workflow tooling, OCR pipelines and operational efficiency |
-| **Rapid Prototyping** | Faster validation of product ideas before committing to production architecture |
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -273,20 +469,88 @@ AI is part of my daily engineering workflow — always with senior review before
 
 ## Architecture
 
-Experience designing systems that survive production — not slide decks.
+<sub>How I design systems that survive production</sub>
 
 <br/>
 
-| Domain | Practice |
-|:---|:---|
-| **Clean Architecture** | Domain boundaries, testable services and separation of concerns across .NET platforms |
-| **Microservices** | Reina Madre clinic network · CLUTCHMX domain services · Humana enterprise integrations |
-| **REST APIs** | Public and internal APIs for web, mobile, e-commerce and healthcare workflows |
-| **Cloud** | Azure App Service, SWA, SQL, Blob Storage · GCP workloads at enterprise scale |
-| **CI/CD** | GitHub Actions, Azure DevOps — automated builds, security checks and release pipelines |
-| **Scalable Systems** | 20k+ patients · high-traffic e-commerce · national manufacturing operations |
-| **Performance** | MongoDB tuning, SQL optimization, static export and Core Web Vitals on jetzael.com |
-| **System Design** | OCR pipelines decoupled from standings · API-first mobile + web · pilot-to-prod on Azure |
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+**Clean Architecture**
+
+<br/>
+
+Domain boundaries, testable services and separation of concerns
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**CQRS**
+
+<br/>
+
+Read/write separation for complex domains and scalable queries
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**DDD**
+
+<br/>
+
+Business rules modeled in domain services — not in controllers
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**Microservices**
+
+<br/>
+
+CLUTCHMX · Reina Madre · Humana enterprise integrations
+
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" valign="top">
+
+**REST APIs**
+
+<br/>
+
+Web, mobile and third-party integrations at scale
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**Cloud**
+
+<br/>
+
+Azure App Service, SWA, SQL, Blob · GCP workloads
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**CI/CD**
+
+<br/>
+
+GitHub Actions · Azure DevOps · automated releases
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**System Design**
+
+<br/>
+
+OCR decoupled from standings · API-first · pilot-to-prod
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -294,38 +558,25 @@ Experience designing systems that survive production — not slide decks.
 
 <br/>
 
-## Professional Experience
+<div align="center">
 
-Short arc. Full detail on [jetzael.com](https://jetzael.com) and [resume](https://jetzael.com/resume-neon-light.pdf).
-
-<br/>
-
-| Company | Impact |
-|:---|:---|
-| **TCS · Humana** | Enterprise healthcare platforms on Azure & GCP — CI/CD, MongoDB optimization, US cross-functional delivery |
-| **Reina Madre** | Microservices for 20,000+ patients — **60% faster** core clinic workflows |
-| **Arabela** | High-traffic e-commerce modernization — **+30% online sales**, real-time inventory |
-| **Coca-Cola FEMSA** | National operations APIs & BI — **30% fewer** operational errors |
-| **Government · México** | Led internal process applications for Contraloría operational workflows |
-| **Google Workspace** | Cross-border healthcare delivery with US teams — docs, coordination and Agile alignment |
+### GitHub Activity
 
 <br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=jetzasead23&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&border_color=30363d" height="170" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetzasead23&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=30363d" height="170" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-## GitHub Stats
+<img src="https://streak-stats.demolab.com/?user=jetzasead23&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideNums=8B949E&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" height="170" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jetzasead23&show_icons=true&theme=transparent&hide_border=true&title_color=9ca3af&text_color=c9d1d9&icon_color=6b7280" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jetzasead23&theme=minimal&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=161b22" width="100%" alt="Contribution Graph"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetzasead23&layout=compact&theme=transparent&hide_border=true&title_color=9ca3af&text_color=c9d1d9" alt="Top Languages" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jetzasead23&theme=minimal&hide_border=true&color=9ca3af&line=6b7280&point=9ca3af&area=true&area_color=161b22" alt="Contribution Graph" />
+</div>
 
 <br/>
 
@@ -333,15 +584,21 @@ Short arc. Full detail on [jetzael.com](https://jetzael.com) and [resume](https:
 
 <br/>
 
-## Learning
-
-Currently deepening skills that compound long-term engineering impact.
+<div align="center">
 
 <br/>
 
-`Kubernetes` · `Advanced React` · `System Design` · `AI Agents` · `LLMs` · `RAG`
+## *"I don't just write code.*
+
+## *I build products that solve real business problems."*
 
 <br/>
+
+<sub>— Engineering philosophy</sub>
+
+<br/><br/>
+
+</div>
 
 ---
 
@@ -351,7 +608,46 @@ Currently deepening skills that compound long-term engineering impact.
 
 <br/>
 
-[Portfolio](https://jetzael.com) · [LinkedIn](https://www.linkedin.com/in/victor-velez23) · [Email](mailto:tenchu13@hotmail.com)
+<table>
+<tr>
+<td align="center" width="25%">
+
+<a href="https://jetzael.com">
+<img src="https://img.shields.io/badge/🌐_Portfolio-jetzael.com-0d1117?style=for-the-badge&labelColor=161b22&color=21262d" width="200" alt="Portfolio"/>
+</a>
+
+<br/><sub>Case studies · Projects · Blog</sub>
+
+</td>
+<td align="center" width="25%">
+
+<a href="https://www.linkedin.com/in/victor-velez23">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0d1117?style=for-the-badge&labelColor=161b22&color=21262d&logo=linkedin&logoColor=9ca3af" width="200" alt="LinkedIn"/>
+</a>
+
+<br/><sub>Senior engineering · Remote</sub>
+
+</td>
+<td align="center" width="25%">
+
+<a href="mailto:tenchu13@hotmail.com">
+<img src="https://img.shields.io/badge/✉️_Email-tenchu13@hotmail.com-0d1117?style=for-the-badge&labelColor=161b22&color=21262d&logo=mail&logoColor=9ca3af" width="200" alt="Email"/>
+</a>
+
+<br/><sub>Direct contact</sub>
+
+</td>
+<td align="center" width="25%">
+
+<a href="https://jetzael.com/resume-neon-light.pdf">
+<img src="https://img.shields.io/badge/📄_Resume-Download_PDF-0d1117?style=for-the-badge&labelColor=161b22&color=21262d&logo=adobeacrobatreader&logoColor=9ca3af" width="200" alt="Resume"/>
+</a>
+
+<br/><sub>Full experience · PDF</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -359,8 +655,18 @@ Currently deepening skills that compound long-term engineering impact.
 
 <br/>
 
-<p align="center">
-  <sub>México · Remote · Building production software since 2012</sub>
-</p>
+<div align="center">
+
+<sub>
+
+**Always learning.** &nbsp;·&nbsp; **Always building.** &nbsp;·&nbsp; **Always shipping.**
+
+<br/><br/>
+
+México · Remote · [jetzael.com](https://jetzael.com) · [github.com/jetzasead23](https://github.com/jetzasead23)
+
+</sub>
+
+</div>
 
 <br/>

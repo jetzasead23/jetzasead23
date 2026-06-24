@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" fill="none">
+  <rect width="640" height="280" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="638" height="278" rx="15" stroke="#30363d"/>
+  <text x="32" y="48" fill="#f778ba" font-family="system-ui,sans-serif" font-size="26" font-weight="700">Flower Shop</text>
+  <text x="32" y="76" fill="#8b949e" font-family="system-ui,sans-serif" font-size="13">E-Commerce · Catalog · Orders · Admin</text>
+  <rect x="48" y="110" width="140" height="120" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="210" y="110" width="140" height="120" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="372" y="110" width="140" height="120" rx="10" fill="#161b22" stroke="#f778ba55"/>
+  <circle cx="118" cy="155" r="20" fill="#f778ba33"/>
+  <circle cx="280" cy="155" r="20" fill="#f778ba33"/>
+</svg>
