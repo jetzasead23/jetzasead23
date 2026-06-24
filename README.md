@@ -1,15 +1,16 @@
 <!-- GitHub Profile · jetzasead23 · Premium Landing -->
+<!-- IMG: https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/ -->
 
 <div align="center">
 
-<img src="./assets/hero-banner.svg" width="100%" alt="Engineering dashboard — Cloud, AI, APIs, Microservices"/>
+<img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/hero-banner.png" width="100%" alt="Engineering dashboard — Cloud, AI, APIs, Microservices"/>
 
 <br/><br/>
 
 <table>
 <tr>
 <td width="200" align="center" valign="top">
-  <img src="./assets/profile-placeholder.svg" width="180" alt="Victor Jetzael Velez Argueta"/>
+  <img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/profile.png" width="180" alt="Victor Jetzael Velez Argueta" style="border-radius:50%"/>
 </td>
 <td align="left" valign="middle">
 
@@ -55,42 +56,42 @@
 <table>
 <tr>
 <td align="center" width="12.5%">
-  <img src="./assets/icons/years.svg" width="40"/><br/>
+  <span style="font-size:28px">📈</span><br/>
   <b>14+</b><br/>
   <sub>Years</sub>
 </td>
 <td align="center" width="12.5%">
-  <img src="./assets/icons/patients.svg" width="40"/><br/>
+  <span style="font-size:28px">💚</span><br/>
   <b>20K+</b><br/>
   <sub>Patients</sub>
 </td>
 <td align="center" width="12.5%">
-  <img src="./assets/icons/ops.svg" width="40"/><br/>
+  <span style="font-size:28px">⚡</span><br/>
   <b>30%</b><br/>
   <sub>Faster Ops</sub>
 </td>
 <td align="center" width="12.5%">
-  <img src="./assets/icons/sports.svg" width="40"/><br/>
+  <span style="font-size:28px">🏀</span><br/>
   <b>Founder</b><br/>
   <sub>Sports-Tech</sub>
 </td>
 <td align="center" width="12.5%">
-  <img src="./assets/icons/healthcare.svg" width="40"/><br/>
+  <span style="font-size:28px">🏥</span><br/>
   <b>Healthcare</b><br/>
   <sub>Enterprise</sub>
 </td>
 <td align="center" width="12.5%">
-  <img src="./assets/icons/cloud.svg" width="40"/><br/>
+  <span style="font-size:28px">☁️</span><br/>
   <b>Cloud</b><br/>
   <sub>Azure · GCP</sub>
 </td>
 <td align="center" width="12.5%">
-  <img src="./assets/icons/ai.svg" width="40"/><br/>
+  <span style="font-size:28px">🧠</span><br/>
   <b>AI</b><br/>
   <sub>Workflows</sub>
 </td>
 <td align="center" width="12.5%">
-  <img src="./assets/icons/product.svg" width="40"/><br/>
+  <span style="font-size:28px">🚀</span><br/>
   <b>Builder</b><br/>
   <sub>SaaS Products</sub>
 </td>
@@ -115,7 +116,7 @@
 <tr>
 <td width="100%">
 
-<img src="./assets/products/clutchmx.svg" width="100%" alt="CLUTCHMX"/>
+<img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/products/clutchmx.png" width="100%" alt="CLUTCHMX"/>
 
 <br/>
 
@@ -140,7 +141,7 @@ Sports-tech SaaS for amateur leagues — OCR game-sheet capture, real-time stand
 <tr>
 <td width="49%" valign="top">
 
-<img src="./assets/products/career-os.svg" width="100%" alt="Career OS"/>
+<img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/products/career-os.png" width="100%" alt="Career OS"/>
 
 <br/>
 
@@ -154,7 +155,7 @@ Personal engineering OS — knowledge base, interview simulator, architecture gr
 <td width="2%"></td>
 <td width="49%" valign="top">
 
-<img src="./assets/products/jetzael.svg" width="100%" alt="jetzael.com"/>
+<img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/products/jetzael.png" width="100%" alt="jetzael.com"/>
 
 <br/>
 
@@ -174,7 +175,7 @@ Bilingual portfolio as a real product — editorial design, case studies, SEO an
 <tr>
 <td width="49%" valign="top">
 
-<img src="./assets/products/ocr.svg" width="100%" alt="OCR Platform"/>
+<img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/products/ocr.png" width="100%" alt="OCR Platform"/>
 
 <br/>
 
@@ -188,7 +189,7 @@ Reusable document intelligence — preprocessing, extraction, validation queues 
 <td width="2%"></td>
 <td width="49%" valign="top">
 
-<img src="./assets/products/ai-prediction.svg" width="100%" alt="AI Prediction"/>
+<img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/products/ai-prediction.png" width="100%" alt="AI Prediction"/>
 
 <br/>
 
@@ -206,7 +207,7 @@ ML-assisted forecasting — data pipelines, model training and .NET inference ga
 <tr>
 <td width="32%" valign="top">
 
-<img src="./assets/products/flower-shop.svg" width="100%" alt="Flower Shop"/>
+<img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/products/flower-shop.png" width="100%" alt="Flower Shop"/>
 
 <br/>
 
@@ -220,7 +221,7 @@ E-commerce — catalog, orders and admin dashboards.
 <td width="2%"></td>
 <td width="32%" valign="top">
 
-<img src="./assets/products/tattoo-studio.svg" width="100%" alt="Tattoo Studio"/>
+<img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/products/tattoo-studio.png" width="100%" alt="Tattoo Studio"/>
 
 <br/>
 
@@ -234,7 +235,7 @@ Online booking, artist calendars and light CRM.
 <td width="2%"></td>
 <td width="32%" valign="top">
 
-<img src="./assets/products/healthcare.svg" width="100%" alt="Healthcare"/>
+<img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/products/healthcare.png" width="100%" alt="Healthcare"/>
 
 <br/>
 
@@ -361,7 +362,7 @@ Clinic ops — 20k+ patients, microservices, Humana-scale experience.
 <tr>
 <td width="45%" valign="top">
 
-<img src="./assets/journey.svg" width="100%" alt="Engineering journey timeline"/>
+<img src="https://raw.githubusercontent.com/jetzasead23/jetzasead23/main/assets/journey.png" width="100%" alt="Engineering journey timeline"/>
 
 </td>
 <td width="55%" valign="top">
