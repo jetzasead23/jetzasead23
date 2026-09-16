@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-label="CLUTCHMX main quest sports technology platform">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-label="CLUTCHMX sports technology platform">
   <defs>
     <linearGradient id="cmxBg" x1="0" y1="0" x2="1100" y2="240" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#14061c"/>
-      <stop offset="1" stop-color="#0b1024"/>
+      <stop stop-color="#0a0e14"/>
+      <stop offset="1" stop-color="#0b1220"/>
     </linearGradient>
     <radialGradient id="cmxGlow" cx="900" cy="30" r="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ff8a4c" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#ff8a4c" stop-opacity="0"/>
+      <stop stop-color="#3ddcff" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#3ddcff" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="1100" height="240" fill="url(#cmxBg)"/>
   <rect width="1100" height="240" fill="url(#cmxGlow)"/>
-  <rect x="14" y="14" width="1072" height="212" fill="none" stroke="#ff8a4c" stroke-width="1.8"/>
-  <path d="M14 40 V14 H40" fill="none" stroke="#ffd166" stroke-width="3"/>
-  <path d="M1086 40 V14 H1060" fill="none" stroke="#4de8ff" stroke-width="3"/>
-  <text x="44" y="52" fill="#ff8a4c" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="3">MAIN QUEST</text>
-  <text x="1056" y="52" fill="#7cffb2" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="3" text-anchor="end">LIVE</text>
-  <text x="44" y="108" fill="#fff6fb" font-family="Segoe UI, system-ui, sans-serif" font-size="36" font-weight="700">CLUTCHMX</text>
-  <text x="44" y="140" fill="#ffd166" font-family="Segoe UI, system-ui, sans-serif" font-size="16">Sports-tech for amateur basketball leagues</text>
-  <text x="44" y="172" fill="#e8d7ff" font-family="Segoe UI, system-ui, sans-serif" font-size="14">Stats, scheduling, standings, OCR scoresheets, mobile.</text>
-  <text x="44" y="202" fill="#4de8ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">.NET  /  Azure  /  Blazor  /  MAUI  /  OCR</text>
+  <rect x="14" y="14" width="1072" height="212" fill="none" stroke="#3ddcff" stroke-width="1.8"/>
+  <path d="M14 40 V14 H40" fill="none" stroke="#e8c547" stroke-width="3"/>
+  <path d="M1086 40 V14 H1060" fill="none" stroke="#2ecc71" stroke-width="3"/>
+  <text x="44" y="52" fill="#e8c547" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="3">FLAGSHIP BUILD</text>
+  <text x="1056" y="52" fill="#2ecc71" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="3" text-anchor="end">LIVE</text>
+  <text x="44" y="108" fill="#e8eef4" font-family="Segoe UI, system-ui, sans-serif" font-size="36" font-weight="700">CLUTCHMX</text>
+  <text x="44" y="140" fill="#e8c547" font-family="Segoe UI, system-ui, sans-serif" font-size="16">Sports-tech for amateur basketball leagues</text>
+  <text x="44" y="172" fill="#8fa3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="14">Stats, scheduling, standings, OCR scoresheets, mobile.</text>
+  <text x="44" y="202" fill="#3ddcff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">.NET  /  Azure  /  Blazor  /  MAUI  /  OCR</text>
 </svg>

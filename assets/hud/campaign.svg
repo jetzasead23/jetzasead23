@@ -2,28 +2,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="168" viewBox="0 0 1100 168" role="img" aria-label="Career campaign map Government to products">
   <defs>
     <linearGradient id="campLine" x1="70" y1="0" x2="1030" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ff3d8f"/>
-      <stop offset=".35" stop-color="#ffd166"/>
-      <stop offset=".7" stop-color="#4de8ff"/>
-      <stop offset="1" stop-color="#b388ff"/>
+      <stop stop-color="#3ddcff"/>
+      <stop offset=".35" stop-color="#8fa3b8"/>
+      <stop offset=".7" stop-color="#2ecc71"/>
+      <stop offset="1" stop-color="#e8c547"/>
     </linearGradient>
   </defs>
-  <rect width="1100" height="168" fill="#14061c"/>
-  <rect x="14" y="14" width="1072" height="140" fill="none" stroke="#b388ff" stroke-width="1.4"/>
-  <text x="36" y="42" fill="#b388ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="3">WORLD MAP  //  CAMPAIGN</text>
+  <rect width="1100" height="168" fill="#0a0e14"/>
+  <rect x="14" y="14" width="1072" height="140" fill="none" stroke="#5c6b7a" stroke-width="1.4"/>
+  <text x="36" y="42" fill="#8fa3b8" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12" font-weight="700" letter-spacing="3">CAMPAIGN MAP</text>
   <line x1="70" y1="88" x2="1030" y2="88" stroke="url(#campLine)" stroke-width="3"/>
   <g font-family="Segoe UI, system-ui, sans-serif" text-anchor="middle">
-    <circle cx="70" cy="88" r="8" fill="#ff3d8f"/>
-    <text x="70" y="122" fill="#fff6fb" font-size="12">Government</text>
-    <circle cx="262" cy="88" r="8" fill="#4de8ff"/>
-    <text x="262" y="122" fill="#fff6fb" font-size="12">FEMSA</text>
-    <circle cx="454" cy="88" r="8" fill="#7cffb2"/>
-    <text x="454" y="122" fill="#fff6fb" font-size="12">Arabela</text>
-    <circle cx="646" cy="88" r="8" fill="#ffd166"/>
-    <text x="646" y="122" fill="#fff6fb" font-size="12">Reina Madre</text>
-    <circle cx="838" cy="88" r="8" fill="#b388ff"/>
-    <text x="838" y="122" fill="#fff6fb" font-size="12">TCS / Humana</text>
-    <circle cx="1030" cy="88" r="9" fill="#ff8a4c"/>
-    <text x="1030" y="122" fill="#ffd166" font-size="12" font-weight="700">Products</text>
+    <circle cx="70" cy="88" r="8" fill="#3ddcff"/>
+    <text x="70" y="122" fill="#e8eef4" font-size="12">Government</text>
+    <circle cx="262" cy="88" r="8" fill="#8fa3b8"/>
+    <text x="262" y="122" fill="#e8eef4" font-size="12">FEMSA</text>
+    <circle cx="454" cy="88" r="8" fill="#2ecc71"/>
+    <text x="454" y="122" fill="#e8eef4" font-size="12">Arabela</text>
+    <circle cx="646" cy="88" r="8" fill="#e8c547"/>
+    <text x="646" y="122" fill="#e8eef4" font-size="12">Reina Madre</text>
+    <circle cx="838" cy="88" r="8" fill="#5c6b7a"/>
+    <text x="838" y="122" fill="#e8eef4" font-size="12">TCS / Humana</text>
+    <circle cx="1030" cy="88" r="9" fill="#f0a202"/>
+    <text x="1030" y="122" fill="#e8c547" font-size="12" font-weight="700">Products</text>
   </g>
 </svg>

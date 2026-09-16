@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-label="Victor Jetzael Player 1 Senior Full-Stack Engineer Level 14 plus">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-label="Victor Jetzael Velez Argueta, game developer and senior full-stack engineer">
   <defs>
     <linearGradient id="heroBg" x1="0" y1="0" x2="1100" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#14061c"/>
-      <stop offset=".45" stop-color="#0b1024"/>
-      <stop offset="1" stop-color="#06141c"/>
+      <stop stop-color="#0a0e14"/>
+      <stop offset=".5" stop-color="#10161f"/>
+      <stop offset="1" stop-color="#0b1220"/>
     </linearGradient>
-    <radialGradient id="gMagenta" cx="220" cy="70" r="380" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ff3d8f" stop-opacity=".28"/>
-      <stop offset="1" stop-color="#ff3d8f" stop-opacity="0"/>
+    <radialGradient id="gCyan" cx="180" cy="60" r="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3ddcff" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#3ddcff" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="gGold" cx="540" cy="300" r="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ffd166" stop-opacity=".16"/>
-      <stop offset="1" stop-color="#ffd166" stop-opacity="0"/>
+    <radialGradient id="gGold" cx="560" cy="320" r="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e8c547" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#e8c547" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="gCyan" cx="980" cy="80" r="340" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4de8ff" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#4de8ff" stop-opacity="0"/>
+    <radialGradient id="gGreen" cx="980" cy="90" r="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2ecc71" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#2ecc71" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="bar" x1="56" y1="0" x2="620" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ff3d8f"/>
-      <stop offset=".5" stop-color="#ffd166"/>
-      <stop offset="1" stop-color="#4de8ff"/>
+      <stop stop-color="#3ddcff"/>
+      <stop offset=".55" stop-color="#e8c547"/>
+      <stop offset="1" stop-color="#2ecc71"/>
     </linearGradient>
   </defs>
   <rect width="1100" height="360" fill="url(#heroBg)"/>
-  <rect width="1100" height="360" fill="url(#gMagenta)"/>
-  <rect width="1100" height="360" fill="url(#gGold)"/>
   <rect width="1100" height="360" fill="url(#gCyan)"/>
-  <rect x="14" y="14" width="1072" height="332" fill="none" stroke="#ff3d8f" stroke-width="2" opacity=".85"/>
-  <rect x="22" y="22" width="1056" height="316" fill="none" stroke="#4de8ff" stroke-width="1" opacity=".45"/>
-  <path d="M14 48 V14 H48" fill="none" stroke="#ffd166" stroke-width="4"/>
-  <path d="M1086 48 V14 H1052" fill="none" stroke="#4de8ff" stroke-width="4"/>
-  <path d="M14 312 V346 H48" fill="none" stroke="#4de8ff" stroke-width="4"/>
-  <path d="M1086 312 V346 H1052" fill="none" stroke="#ff3d8f" stroke-width="4"/>
-  <text x="48" y="58" fill="#ff3d8f" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13" font-weight="700" letter-spacing="4">PLAYER 1 SELECTED</text>
-  <text x="1052" y="58" fill="#ffd166" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13" font-weight="700" letter-spacing="4" text-anchor="end">LEVEL 14+</text>
-  <text x="48" y="130" fill="#fff6fb" font-family="Segoe UI, system-ui, sans-serif" font-size="44" font-weight="700" letter-spacing="1.4">VICTOR JETZAEL</text>
-  <text x="48" y="164" fill="#ffd166" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="600">VJVA  ·  Senior Full-Stack Engineer</text>
-  <rect x="48" y="184" width="520" height="6" rx="3" fill="url(#bar)"/>
-  <text x="48" y="220" fill="#4de8ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="14" letter-spacing="1.1">.NET   AZURE   AI   OCR   CLOUD ARCHITECTURE</text>
-  <text x="48" y="248" fill="#e8d7ff" font-family="Segoe UI, system-ui, sans-serif" font-size="14">Mexico / Remote  ·  Building products that ship</text>
-  <rect x="48" y="272" width="248" height="40" rx="6" fill="#ff3d8f"/>
-  <text x="172" y="298" fill="#14061c" font-family="Segoe UI, system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle">PRESS START</text>
-  <text x="314" y="298" fill="#fff6fb" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="14">jetzael.com</text>
+  <rect width="1100" height="360" fill="url(#gGold)"/>
+  <rect width="1100" height="360" fill="url(#gGreen)"/>
+  <rect x="14" y="14" width="1072" height="332" fill="none" stroke="#3ddcff" stroke-width="2" opacity=".75"/>
+  <rect x="22" y="22" width="1056" height="316" fill="none" stroke="#5c6b7a" stroke-width="1" opacity=".55"/>
+  <path d="M14 48 V14 H48" fill="none" stroke="#e8c547" stroke-width="4"/>
+  <path d="M1086 48 V14 H1052" fill="none" stroke="#3ddcff" stroke-width="4"/>
+  <path d="M14 312 V346 H48" fill="none" stroke="#3ddcff" stroke-width="4"/>
+  <path d="M1086 312 V346 H1052" fill="none" stroke="#2ecc71" stroke-width="4"/>
+  <text x="48" y="58" fill="#e8c547" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13" font-weight="700" letter-spacing="3">INSERT COIN</text>
+  <text x="1052" y="58" fill="#3ddcff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13" font-weight="700" letter-spacing="3" text-anchor="end">14+ YRS XP</text>
+  <text x="48" y="128" fill="#e8eef4" font-family="Segoe UI, system-ui, sans-serif" font-size="42" font-weight="700" letter-spacing="1.2">VICTOR JETZAEL</text>
+  <text x="48" y="162" fill="#e8c547" font-family="Segoe UI, system-ui, sans-serif" font-size="17" font-weight="600">Game Developer  ·  Senior Full-Stack Engineer</text>
+  <rect x="48" y="182" width="520" height="6" rx="3" fill="url(#bar)"/>
+  <text x="48" y="218" fill="#3ddcff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="14" letter-spacing="1">.NET   AZURE   AI   OCR   SPORTS-TECH</text>
+  <text x="48" y="246" fill="#8fa3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="14">Mexico / Remote  ·  Shipping production systems</text>
+  <rect x="48" y="272" width="248" height="40" rx="4" fill="#3ddcff"/>
+  <text x="172" y="298" fill="#0a0e14" font-family="Segoe UI, system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle">INSERT COIN</text>
+  <text x="314" y="298" fill="#e8eef4" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="14">jetzael.com</text>
   <g transform="translate(740,78)">
-    <rect x="0" y="0" width="308" height="224" rx="8" fill="#12081c" stroke="#b388ff" stroke-width="1.6"/>
-    <text x="18" y="32" fill="#b388ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12" letter-spacing="2">LOADOUT</text>
-    <text x="18" y="68" fill="#ff3d8f" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">WEAPON     .NET / C#</text>
-    <text x="18" y="100" fill="#ffd166" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">ARMOR      AZURE / GCP</text>
-    <text x="18" y="132" fill="#4de8ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">SPELL      AI / OCR</text>
-    <text x="18" y="164" fill="#7cffb2" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">RELIC      CLUTCHMX</text>
-    <text x="18" y="200" fill="#e8d7ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12">MAP  HEALTHCARE / SPORTS</text>
+    <rect x="0" y="0" width="308" height="224" rx="4" fill="#0d131c" stroke="#5c6b7a" stroke-width="1.5"/>
+    <text x="18" y="32" fill="#8fa3b8" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12" letter-spacing="2">DEV KIT</text>
+    <text x="18" y="68" fill="#3ddcff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">ENGINE     .NET / C#</text>
+    <text x="18" y="100" fill="#e8c547" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">CLOUD      AZURE / GCP</text>
+    <text x="18" y="132" fill="#2ecc71" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">SYSTEMS    AI / OCR</text>
+    <text x="18" y="164" fill="#e8eef4" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">SHIPPED    CLUTCHMX</text>
+    <text x="18" y="200" fill="#8fa3b8" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12">DOMAIN  HEALTHCARE / SPORTS</text>
   </g>
 </svg>
