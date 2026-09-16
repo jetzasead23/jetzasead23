@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-label="Jetzael Engine title screen">
+  <defs>
+    <linearGradient id="tsBg" x1="0" y1="0" x2="1100" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#041108"/>
+      <stop offset=".55" stop-color="#071a0e"/>
+      <stop offset="1" stop-color="#0a2414"/>
+    </linearGradient>
+    <linearGradient id="tsGlow" x1="80" y1="40" x2="980" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3dff8a" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#3dff8a" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="tsScan" width="1100" height="4" patternUnits="userSpaceOnUse">
+      <rect width="1100" height="1" fill="#3dff8a" opacity=".035"/>
+    </pattern>
+    <style>
+      .blink { animation: blink 1.15s steps(2) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <rect width="1100" height="360" fill="url(#tsBg)"/>
+  <rect width="1100" height="360" fill="url(#tsGlow)"/>
+  <rect width="1100" height="360" fill="url(#tsScan)"/>
+  <rect x="10" y="10" width="1080" height="340" fill="none" stroke="#1f6b3a" stroke-width="2"/>
+  <rect x="18" y="18" width="1064" height="324" fill="none" stroke="#3dff8a" stroke-width=".6" opacity=".45"/>
+  <path d="M10 42 V10 H42" fill="none" stroke="#3dff8a" stroke-width="3"/>
+  <path d="M1090 42 V10 H1058" fill="none" stroke="#3dff8a" stroke-width="3"/>
+  <path d="M10 318 V350 H42" fill="none" stroke="#3dff8a" stroke-width="3"/>
+  <path d="M1090 318 V350 H1058" fill="none" stroke="#3dff8a" stroke-width="3"/>
+  <text x="40" y="52" fill="#7eaa8c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3">JETZAEL.ENGINE  //  SYS.OK</text>
+  <circle cx="980" cy="47" r="5" fill="#3dff8a"/>
+  <text x="996" y="52" fill="#3dff8a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">ONLINE</text>
+  <text x="40" y="74" fill="#1f6b3a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">BOOT SEQUENCE COMPLETE  //  PROFILE LOADED</text>
+  <text x="40" y="140" fill="#1f8a52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="8">PLAYER 1 SELECTED</text>
+  <text x="40" y="198" fill="#d8ffe8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700">VJVA</text>
+  <text x="40" y="232" fill="#9affc0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">VICTOR JETZAEL VELEZ ARGUETA</text>
+  <text x="40" y="262" fill="#7eaa8c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">CLASS  SENIOR FULL-STACK ENGINEER   //   LV.14+   //   MEXICO / REMOTE</text>
+  <rect x="40" y="286" width="420" height="36" fill="#0d2818" stroke="#3dff8a" stroke-width="1.4"/>
+  <text x="56" y="309" fill="#3dff8a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700">PRESS START</text>
+  <text x="186" y="309" fill="#d8ffe8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">jetzael.com</text>
+  <rect x="392" y="297" width="8" height="16" fill="#3dff8a" class="blink"/>
+  <g transform="translate(760,96)">
+    <rect x="0" y="0" width="280" height="196" fill="#06160d" stroke="#1f6b3a"/>
+    <text x="16" y="28" fill="#7eaa8c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2">LOADOUT SNAPSHOT</text>
+    <text x="16" y="62" fill="#3dff8a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">WEAPON     .NET / C#</text>
+    <text x="16" y="88" fill="#9affc0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">ARMOR      AZURE / GCP</text>
+    <text x="16" y="114" fill="#9affc0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">SPELL      AI / OCR</text>
+    <text x="16" y="140" fill="#9affc0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">RELIC      PRODUCT</text>
+    <text x="16" y="176" fill="#7eaa8c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">MAP  CLOUD  /  HEALTHCARE  /  SPORTS</text>
+  </g>
+</svg>

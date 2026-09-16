@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="200" viewBox="0 0 1100 200" role="img" aria-label="Save point contact HUD">
+  <defs>
+    <linearGradient id="spBg" x1="0" y1="0" x2="1100" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#041108"/>
+      <stop offset="1" stop-color="#0a2414"/>
+    </linearGradient>
+    <style>
+      .blink { animation: blink 1.15s steps(2) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <rect width="1100" height="200" fill="url(#spBg)"/>
+  <rect x="10" y="10" width="1080" height="180" fill="none" stroke="#1f6b3a" stroke-width="2"/>
+  <path d="M10 34 V10 H34" fill="none" stroke="#3dff8a" stroke-width="3"/>
+  <path d="M1090 34 V10 H1066" fill="none" stroke="#3dff8a" stroke-width="3"/>
+  <path d="M10 166 V190 H34" fill="none" stroke="#3dff8a" stroke-width="3"/>
+  <path d="M1090 166 V190 H1066" fill="none" stroke="#3dff8a" stroke-width="3"/>
+  <text x="36" y="48" fill="#7eaa8c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3">SAVE POINT  //  CONTINUE?</text>
+  <text x="36" y="88" fill="#d8ffe8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">I don't just write code.</text>
+  <text x="36" y="118" fill="#3dff8a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">I build products that solve real business problems.</text>
+  <text x="36" y="156" fill="#7eaa8c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Mexico  //  Remote  //  Always learning  //  Always shipping</text>
+  <rect x="720" y="128" width="12" height="22" fill="#3dff8a" class="blink"/>
+  <text x="744" y="148" fill="#3dff8a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">jetzael.com</text>
+</svg>
