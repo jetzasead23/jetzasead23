@@ -1,32 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-label="Victor Jetzael Senior Full-Stack Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-label="Victor Jetzael Player 1 Senior Full-Stack Engineer Level 14 plus">
   <defs>
-    <linearGradient id="heroBg" x1="0" y1="0" x2="1100" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#08090d"/>
-      <stop offset=".55" stop-color="#0a0c12"/>
-      <stop offset="1" stop-color="#0c0a14"/>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="1100" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14061c"/>
+      <stop offset=".45" stop-color="#0b1024"/>
+      <stop offset="1" stop-color="#06141c"/>
     </linearGradient>
-    <radialGradient id="heroCyan" cx="180" cy="80" r="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5ce1ff" stop-opacity=".10"/>
-      <stop offset="1" stop-color="#5ce1ff" stop-opacity="0"/>
+    <radialGradient id="gMagenta" cx="220" cy="70" r="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff3d8f" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#ff3d8f" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="heroViolet" cx="920" cy="240" r="380" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8b7cff" stop-opacity=".10"/>
-      <stop offset="1" stop-color="#8b7cff" stop-opacity="0"/>
+    <radialGradient id="gGold" cx="540" cy="300" r="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd166" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#ffd166" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="gCyan" cx="980" cy="80" r="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4de8ff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#4de8ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bar" x1="56" y1="0" x2="620" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff3d8f"/>
+      <stop offset=".5" stop-color="#ffd166"/>
+      <stop offset="1" stop-color="#4de8ff"/>
+    </linearGradient>
   </defs>
-  <rect width="1100" height="320" fill="url(#heroBg)"/>
-  <rect width="1100" height="320" fill="url(#heroCyan)"/>
-  <rect width="1100" height="320" fill="url(#heroViolet)"/>
-  <rect x="20" y="20" width="1060" height="280" fill="none" stroke="#1a2230" stroke-width="1"/>
-  <path d="M20 40 V20 H40" fill="none" stroke="#5ce1ff" stroke-width="1.5"/>
-  <path d="M1080 40 V20 H1060" fill="none" stroke="#8b7cff" stroke-width="1.5"/>
-  <path d="M20 280 V300 H40" fill="none" stroke="#8b7cff" stroke-width="1.5"/>
-  <path d="M1080 280 V300 H1060" fill="none" stroke="#5ce1ff" stroke-width="1.5"/>
-  <text x="56" y="62" fill="#5ce1ff" font-family="Segoe UI, system-ui, sans-serif" font-size="12" font-weight="600" letter-spacing="4">PLAYER 1</text>
-  <text x="1044" y="62" fill="#8b7cff" font-family="Segoe UI, system-ui, sans-serif" font-size="12" font-weight="600" letter-spacing="4" text-anchor="end">LEVEL 14+</text>
-  <text x="56" y="142" fill="#e6edf5" font-family="Segoe UI, system-ui, sans-serif" font-size="40" font-weight="700" letter-spacing="1.5">VICTOR JETZAEL</text>
-  <text x="56" y="176" fill="#8b93a7" font-family="Segoe UI, system-ui, sans-serif" font-size="16" font-weight="500">Senior Full-Stack Engineer</text>
-  <text x="56" y="218" fill="#5ce1ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13" letter-spacing="1.2">.NET  /  Azure  /  AI  /  Cloud Architecture</text>
-  <text x="56" y="260" fill="#c5cdd8" font-family="Segoe UI, system-ui, sans-serif" font-size="14">Building scalable software, intelligent systems and real-world products.</text>
+  <rect width="1100" height="360" fill="url(#heroBg)"/>
+  <rect width="1100" height="360" fill="url(#gMagenta)"/>
+  <rect width="1100" height="360" fill="url(#gGold)"/>
+  <rect width="1100" height="360" fill="url(#gCyan)"/>
+  <rect x="14" y="14" width="1072" height="332" fill="none" stroke="#ff3d8f" stroke-width="2" opacity=".85"/>
+  <rect x="22" y="22" width="1056" height="316" fill="none" stroke="#4de8ff" stroke-width="1" opacity=".45"/>
+  <path d="M14 48 V14 H48" fill="none" stroke="#ffd166" stroke-width="4"/>
+  <path d="M1086 48 V14 H1052" fill="none" stroke="#4de8ff" stroke-width="4"/>
+  <path d="M14 312 V346 H48" fill="none" stroke="#4de8ff" stroke-width="4"/>
+  <path d="M1086 312 V346 H1052" fill="none" stroke="#ff3d8f" stroke-width="4"/>
+  <text x="48" y="58" fill="#ff3d8f" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13" font-weight="700" letter-spacing="4">PLAYER 1 SELECTED</text>
+  <text x="1052" y="58" fill="#ffd166" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13" font-weight="700" letter-spacing="4" text-anchor="end">LEVEL 14+</text>
+  <text x="48" y="130" fill="#fff6fb" font-family="Segoe UI, system-ui, sans-serif" font-size="44" font-weight="700" letter-spacing="1.4">VICTOR JETZAEL</text>
+  <text x="48" y="164" fill="#ffd166" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="600">VJVA  ·  Senior Full-Stack Engineer</text>
+  <rect x="48" y="184" width="520" height="6" rx="3" fill="url(#bar)"/>
+  <text x="48" y="220" fill="#4de8ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="14" letter-spacing="1.1">.NET   AZURE   AI   OCR   CLOUD ARCHITECTURE</text>
+  <text x="48" y="248" fill="#e8d7ff" font-family="Segoe UI, system-ui, sans-serif" font-size="14">Mexico / Remote  ·  Building products that ship</text>
+  <rect x="48" y="272" width="248" height="40" rx="6" fill="#ff3d8f"/>
+  <text x="172" y="298" fill="#14061c" font-family="Segoe UI, system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle">PRESS START</text>
+  <text x="314" y="298" fill="#fff6fb" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="14">jetzael.com</text>
+  <g transform="translate(740,78)">
+    <rect x="0" y="0" width="308" height="224" rx="8" fill="#12081c" stroke="#b388ff" stroke-width="1.6"/>
+    <text x="18" y="32" fill="#b388ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12" letter-spacing="2">LOADOUT</text>
+    <text x="18" y="68" fill="#ff3d8f" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">WEAPON     .NET / C#</text>
+    <text x="18" y="100" fill="#ffd166" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">ARMOR      AZURE / GCP</text>
+    <text x="18" y="132" fill="#4de8ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">SPELL      AI / OCR</text>
+    <text x="18" y="164" fill="#7cffb2" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="13">RELIC      CLUTCHMX</text>
+    <text x="18" y="200" fill="#e8d7ff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12">MAP  HEALTHCARE / SPORTS</text>
+  </g>
 </svg>
