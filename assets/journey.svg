@@ -9,37 +9,37 @@
 
   <g transform="translate(0,24)">
     <circle cx="80" cy="32" r="10" fill="#0d1117" stroke="#8b949e" stroke-width="2"/>
-    <text x="110" y="28" fill="#e6edf3" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Government · México</text>
-    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">Process automation · Oracle web systems</text>
+    <text x="110" y="28" fill="#e6edf3" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Government ï¿½ Mï¿½xico</text>
+    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">Process automation ï¿½ Oracle web systems</text>
   </g>
   <g transform="translate(0,112)">
     <circle cx="80" cy="32" r="10" fill="#0d1117" stroke="#f85149" stroke-width="2"/>
     <text x="110" y="28" fill="#e6edf3" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Coca-Cola FEMSA</text>
-    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">National ops APIs · 30% fewer errors</text>
+    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">National ops APIs ï¿½ 30% fewer errors</text>
   </g>
   <g transform="translate(0,200)">
     <circle cx="80" cy="32" r="10" fill="#0d1117" stroke="#d29922" stroke-width="2"/>
     <text x="110" y="28" fill="#e6edf3" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Arabela</text>
-    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">E-commerce modernization · +30% sales</text>
+    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">E-commerce modernization ï¿½ +30% sales</text>
   </g>
   <g transform="translate(0,288)">
     <circle cx="80" cy="32" r="10" fill="#0d1117" stroke="#7ee787" stroke-width="2"/>
     <text x="110" y="28" fill="#e6edf3" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Reina Madre</text>
-    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">Healthcare microservices · 20k+ patients</text>
+    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">Healthcare microservices ï¿½ 20k+ patients</text>
   </g>
   <g transform="translate(0,376)">
     <circle cx="80" cy="32" r="10" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
-    <text x="110" y="28" fill="#e6edf3" font-family="system-ui,sans-serif" font-size="15" font-weight="600">TCS · Humana</text>
-    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">Enterprise healthcare · Azure · GCP · CI/CD</text>
+    <text x="110" y="28" fill="#e6edf3" font-family="system-ui,sans-serif" font-size="15" font-weight="600">TCS ï¿½ Humana</text>
+    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">Enterprise healthcare ï¿½ Azure ï¿½ GCP ï¿½ CI/CD</text>
   </g>
   <g transform="translate(0,464)">
     <circle cx="80" cy="32" r="12" fill="#21262d" stroke="#58a6ff" stroke-width="2.5"/>
     <text x="110" y="28" fill="#e6edf3" font-family="system-ui,sans-serif" font-size="15" font-weight="600">CLUTCHMX</text>
-    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">Sports-tech SaaS · OCR · Live product</text>
+    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">Sports-tech SaaS ï¿½ OCR ï¿½ Live product</text>
   </g>
   <g transform="translate(0,552)">
     <circle cx="80" cy="32" r="12" fill="#21262d" stroke="#a371f7" stroke-width="2.5"/>
     <text x="110" y="28" fill="#e6edf3" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Career OS</text>
-    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">Engineering OS · AI · Career intelligence</text>
+    <text x="110" y="48" fill="#8b949e" font-family="system-ui,sans-serif" font-size="12">Engineering OS ï¿½ AI ï¿½ Career intelligence</text>
   </g>
 </svg>

@@ -1,14 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" fill="none">
-  <rect width="640" height="280" rx="16" fill="#0d1117"/>
-  <rect x="1" y="1" width="638" height="278" rx="15" stroke="#30363d"/>
-  <text x="32" y="48" fill="#58a6ff" font-family="system-ui,sans-serif" font-size="28" font-weight="700">CLUTCHMX</text>
-  <text x="32" y="76" fill="#8b949e" font-family="system-ui,sans-serif" font-size="13">Sports-Tech SaaS · Leagues · OCR · Live Standings</text>
-  <rect x="32" y="100" width="280" height="140" rx="10" fill="#161b22" stroke="#30363d"/>
-  <rect x="48" y="120" width="120" height="8" rx="2" fill="#30363d"/>
-  <rect x="48" y="140" width="200" height="60" rx="6" fill="#21262d"/>
-  <text x="64" y="176" fill="#7ee787" font-family="monospace" font-size="14">LIVE · 2-1</text>
-  <rect x="340" y="100" width="268" height="64" rx="8" fill="#161b22" stroke="#58a6ff55"/>
-  <text x="360" y="138" fill="#58a6ff" font-family="monospace" font-size="12">OCR Pipeline Active</text>
-  <rect x="340" y="176" width="128" height="64" rx="8" fill="#161b22" stroke="#30363d"/>
-  <rect x="480" y="176" width="128" height="64" rx="8" fill="#161b22" stroke="#30363d"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-label="CLUTCHMX sports technology platform">
+  <defs>
+    <linearGradient id="cmxBg" x1="0" y1="0" x2="1100" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08090d"/>
+      <stop offset="1" stop-color="#0b0d14"/>
+    </linearGradient>
+    <radialGradient id="cmxGlow" cx="860" cy="40" r="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5ce1ff" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#5ce1ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1100" height="240" fill="url(#cmxBg)"/>
+  <rect width="1100" height="240" fill="url(#cmxGlow)"/>
+  <rect x="20" y="20" width="1060" height="200" fill="none" stroke="#1a2230" stroke-width="1"/>
+  <path d="M20 36 V20 H36" fill="none" stroke="#5ce1ff" stroke-width="1.4"/>
+  <path d="M1080 36 V20 H1064" fill="none" stroke="#8b7cff" stroke-width="1.4"/>
+  <path d="M20 204 V220 H36" fill="none" stroke="#8b7cff" stroke-width="1.4"/>
+  <path d="M1080 204 V220 H1064" fill="none" stroke="#5ce1ff" stroke-width="1.4"/>
+  <text x="52" y="56" fill="#5ce1ff" font-family="Segoe UI, system-ui, sans-serif" font-size="11" font-weight="600" letter-spacing="3">FLAGSHIP</text>
+  <text x="1048" y="56" fill="#5ce1ff" font-family="Segoe UI, system-ui, sans-serif" font-size="11" font-weight="600" letter-spacing="3" text-anchor="end">LIVE</text>
+  <text x="52" y="108" fill="#e6edf5" font-family="Segoe UI, system-ui, sans-serif" font-size="32" font-weight="700">CLUTCHMX</text>
+  <text x="52" y="138" fill="#8b93a7" font-family="Segoe UI, system-ui, sans-serif" font-size="15">Sports Technology Platform</text>
+  <text x="52" y="172" fill="#c5cdd8" font-family="Segoe UI, system-ui, sans-serif" font-size="13">Amateur basketball leagues - stats, scheduling, standings, OCR scoresheets, mobile.</text>
+  <text x="52" y="200" fill="#8b7cff" font-family="Consolas, Cascadia Mono, ui-monospace, monospace" font-size="12">.NET  /  Azure  /  Blazor  /  MAUI  /  OCR</text>
 </svg>
